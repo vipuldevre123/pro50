@@ -1,0 +1,32 @@
+
+h1 {
+color: brown;
+}
+
+* {
+border: black;
+}
+.header {
+    background-color: rgb(71, 7, 145);
+display:flex;
+justify-content: space-between;
+}     
+.menu{
+    background-color: cadetblue;
+}   
+.grid{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.footer{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: flex-end;
+}
+body{
+    background-color: cornflowerblue;
+}
+h2,p{
+    text-align: center;
+}
